@@ -1,0 +1,14 @@
+ATUALIZAÇÃO DO SITE
+1. Extraia o ZIP.
+2. No repositório atual, Code > Add file > Upload files.
+3. Arraste os arquivos e a pasta assets juntos, sem a pasta externa do ZIP.
+4. Commit changes na branch main. Não apague .github/workflows.
+5. Em Actions, confira se a publicação terminou com sucesso.
+
+ENDEREÇO GRATUITO
+Crie uma organização gratuita chamada claudiamilhoratti (se disponível).
+Crie nela um repositório público chamado claudiamilhoratti.github.io.
+Envie os arquivos deste ZIP. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+Se necessário, selecione GitHub Actions > Static HTML > Configure > Commit changes.
+O endereço esperado é https://claudiamilhoratti.github.io/.
+Mantenha o site antigo até verificar o novo. Não use Custom domain para um subdomínio github.io.
